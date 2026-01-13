@@ -1,4 +1,4 @@
-# Mystra.io - Casper NFT Marketplace Contract with royalities
+# Mystra.io - Casper NFT Marketplace Contract with royalties
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Casper](https://img.shields.io/badge/Casper-FF0000?style=for-the-badge&logo=casper&logoColor=white)
